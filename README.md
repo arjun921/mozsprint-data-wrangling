@@ -9,7 +9,7 @@ Any contribution is more than welcome
 
 Also if you want to join me on trello I created [a board for this](https://trello.com/b/HXqkPO6U/mozsprint-hackathon)  and I will try to write a blog post about tips for getting ready to take a hackathon :) 
 
-In this notebook I will be doing a lot of data transformation and conversion. I will use classic python libraries like pandas and matplotlib, but also I will introduce some others that are needed for specific purposes like creating a word cloud from a text
+In this notebook I will be doing a lot of data transformation and conversion. I will use classic python libraries like pandas and matplotlib, but also I will introduce some others that are needed for specific purposes like creating a word cloud from a text.
 
 
 
