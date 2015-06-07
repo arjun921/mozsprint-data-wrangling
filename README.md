@@ -1,4 +1,4 @@
-# Using Python for Event's data analysis
+# Using Python for Events data analysis
 
 ##Purpose  
 
